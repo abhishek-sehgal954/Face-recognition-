@@ -1,4 +1,4 @@
-%%% face recognition by Abhishek Sehgal, Aditya Gaur, Ayush Mehra %%%
+%%% face recognition by Abhishek Sehgal%%%
 clear all
 close all
 clc

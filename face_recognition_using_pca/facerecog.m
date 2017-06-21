@@ -1,4 +1,4 @@
-%%%% By Abhishek Sehgal, Aditya Gaur, Ayush Mehra  %%%%
+%%%% By Abhishek Sehgal %%%%
 
 function [recognized_img]=facerecog(datapath,testimg)
 
